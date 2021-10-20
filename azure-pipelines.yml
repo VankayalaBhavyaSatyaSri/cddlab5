@@ -7,7 +7,7 @@ trigger:
 
  
 
-- main 
+- master 
 
  
 
@@ -81,7 +81,7 @@ steps:
 
  
 
-- script: python "lab.py" 
+- script: python "add.py" 
 
  
 
